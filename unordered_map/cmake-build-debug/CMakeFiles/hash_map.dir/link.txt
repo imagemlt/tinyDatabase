@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -march=native -O3 -pthread -g   CMakeFiles/hash_map.dir/main.cpp.o  -o hash_map 

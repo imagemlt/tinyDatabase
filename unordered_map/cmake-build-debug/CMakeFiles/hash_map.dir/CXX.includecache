@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/image/CLionProjects/tinyDatabase/hash_map/main.cpp
+iostream
+-
+sys/socket.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+netdb.h
+-
+cstring
+-
+unordered_map
+-
+thread
+-
+vector
+-
+time.h
+-
+
